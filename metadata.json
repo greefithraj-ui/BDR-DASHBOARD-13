@@ -1,0 +1,6 @@
+{
+  "name": "BDR Session Dashboard 4.0",
+  "description": "Interactive HTML dashboard for Battery Discharge Rate session data",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
